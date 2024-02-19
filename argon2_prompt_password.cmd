@@ -21,7 +21,7 @@
         }
     </script>
 
-    <input type='password' name='pass' size='15' value='test' onkeypress="return entperPressed(event)" ></input><br/>
+    <input type='password' name='pass' size='15' value='' onkeypress="return entperPressed(event)" ></input><br/>
     <hr>
     <button onclick='pipePass()'>Submit</button>
 
